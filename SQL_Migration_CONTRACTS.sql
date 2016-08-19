@@ -1,5 +1,5 @@
 /****************************************************************************************/
-/* Migrate FIS Contracts to wts_coillte/TFM												*/
+/* Migrate FIS Contracts to wts_coillte/TFM						*/
 /*																						*/
 /* FIS CONTRACT HEADS																	*/
 /* FIS CONTRACT LINES																	*/
